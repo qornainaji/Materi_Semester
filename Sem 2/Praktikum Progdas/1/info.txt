@@ -1,0 +1,1 @@
+g++ .\HasilLabCheck3_Modul1_481767_QornainAji.cpp -o HasilLabCheck3_Modul1_481767_QornainAji.exe

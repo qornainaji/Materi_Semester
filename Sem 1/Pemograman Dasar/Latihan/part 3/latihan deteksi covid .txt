@@ -1,0 +1,29 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int temp;
+    bool batuk, sesak;
+    
+    cout<<"Masukkan suhu : ";
+    cin>>temp;
+    cout<<"\nApakah batuk?";
+    cin>>batuk;
+    cout<<"\nApakah sesak napas?";
+    cin>>sesak;
+    
+    if(temp>= 37 && batuk==1 && sesak==1)
+        cout<<"\nKESIMPULAN: SUSPECT";
+    else if(temp>= 37 && batuk==1)
+        cout<<"\nKESIMPULAN: PERLU PENGAWASAN";
+        
+        else if(temp>=37)
+        cout<<"\nKESIMPULAN: PERLU PEMANTAUAN";
+        
+        else
+        cout<<"\nKESIMPULAN: ANDA AMAN";
+
+    return 0;
+}

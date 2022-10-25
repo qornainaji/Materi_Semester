@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <b:Source>
+    <b:SourceType>Book</b:SourceType>
+    <b:Title>Moving Los Angeles: Short-Term Transportation Policy Options for Improving Transportation RAND Corporation</b:Title>
+    <b:Year>2008</b:Year>
+    <b:Publisher>RAND Corporation </b:Publisher>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Paul</b:First>
+            <b:Last>Sorensen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Martin</b:First>
+            <b:Last>Wachs</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Endy</b:First>
+            <b:Last>Y. Min</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Aaron</b:First>
+            <b:Last>Kofner</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Liisa</b:First>
+            <b:Last>Ecola</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Santa Monica</b:City>
+    <b:Tag>moving-los-angeles:-short-term-transportation-policy-options-for-improving-transportation-rand-corporation</b:Tag>
+  </b:Source>
+</b:Sources>

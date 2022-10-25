@@ -1,0 +1,1 @@
+g++ .\PhoneBook.cpp .\Controller.cpp .\ProyekPhoneBookPisah.cpp -o ProyekPhoneBookPisah.exe

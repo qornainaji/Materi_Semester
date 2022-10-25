@@ -1,0 +1,1 @@
+cout<<angkatan<<endl;
