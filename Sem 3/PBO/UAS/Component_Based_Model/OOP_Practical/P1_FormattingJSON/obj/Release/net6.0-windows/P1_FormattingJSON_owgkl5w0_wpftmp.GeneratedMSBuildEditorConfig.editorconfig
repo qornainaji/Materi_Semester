@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = P1_FormattingJSON_owgkl5w0_wpftmp
+build_property.ProjectDir = F:\Data Qornain\Materi Matkul\Materi_Semester\Sem 3\PBO\UAS\Component_Based_Model\OOP_Practical\P1_FormattingJSON\

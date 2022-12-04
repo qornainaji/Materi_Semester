@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M74vuTjE/x5vzM/RH7sgvzSoDYYqtKCVmn/RUmmpsE83dHo3m4mLrR1Uf5+P5Z6swvIq2ucdhJzcVb+ySoyC+Q==",
+  "success": true,
+  "projectFilePath": "F:\\Data Qornain\\Materi Matkul\\Materi_Semester\\Sem 3\\PBO\\UAS\\Component_Based_Model\\OOP_Practical\\P1_FormattingJSON\\P1_FormattingJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AiiChan\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
