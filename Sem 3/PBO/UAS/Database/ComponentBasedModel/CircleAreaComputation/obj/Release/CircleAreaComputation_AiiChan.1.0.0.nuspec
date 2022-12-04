@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CircleAreaComputation_AiiChan</id>
+    <version>1.0.0</version>
+    <title>Circle Area Computation</title>
+    <authors>Qornain Aji</authors>
+    <description>Package untuk menghitung hal yang berkaitan dengan lingkaran.</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Data Qornain\Materi Matkul\Materi_Semester\Sem 3\PBO\UAS\Database\ComponentBasedModel\CircleAreaComputation\bin\Release\net6.0\CircleAreaComputation.dll" target="lib\net6.0\CircleAreaComputation.dll" />
+  </files>
+</package>

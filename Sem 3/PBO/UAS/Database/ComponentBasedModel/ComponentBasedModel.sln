@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleAreaComputation", "CircleAreaComputation\CircleAreaComputation.csproj", "{979C67BD-0166-40C7-AB3A-867AC5127C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingCircleLibrary", "UsingCircleLibrary\UsingCircleLibrary.csproj", "{C2E42458-8D02-4E8D-8841-D28FF02514FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{979C67BD-0166-40C7-AB3A-867AC5127C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979C67BD-0166-40C7-AB3A-867AC5127C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979C67BD-0166-40C7-AB3A-867AC5127C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979C67BD-0166-40C7-AB3A-867AC5127C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E42458-8D02-4E8D-8841-D28FF02514FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E42458-8D02-4E8D-8841-D28FF02514FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E42458-8D02-4E8D-8841-D28FF02514FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E42458-8D02-4E8D-8841-D28FF02514FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {169DFBC4-9613-4C20-AA40-3C1B69C3A5B9}
+	EndGlobalSection
+EndGlobal

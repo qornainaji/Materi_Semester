@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>CircleAreaComputation_AiiChan</PackageId>
+    <Title>Circle Area Computation</Title>
+    <Authors>Qornain Aji</Authors>
+    <Description>Package untuk menghitung hal yang berkaitan dengan lingkaran.</Description>
+  </PropertyGroup>
+
+</Project>
