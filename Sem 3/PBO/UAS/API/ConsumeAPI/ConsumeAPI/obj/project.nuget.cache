@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V0JVYYFs9FqeMoooxeYg3rCVBDOLzEp5XuL/wtP9XREDVVAhQVEzS8aQ+i+Sl3xySdeFQIrDEKZQUrGgQ52Akw==",
+  "success": true,
+  "projectFilePath": "F:\\Data Qornain\\Materi Matkul\\Materi_Semester\\Sem 3\\PBO\\UAS\\API\\ConsumeAPI\\ConsumeAPI\\ConsumeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AiiChan\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
